@@ -9,3 +9,21 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Toyota Logo](https://shope210society.com/cdn/shop/products/IMG-0153_2048x2048.png?v=1608054581)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+```Python
+def saludar ():
+  nombre= input("digite su nombre: ")
+  print(f"hola {nombre} sea bienvenid@!!!!")\
+```

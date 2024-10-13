@@ -27,3 +27,9 @@ def saludar ():
   nombre= input("digite su nombre: ")
   print(f"hola {nombre} sea bienvenid@!!!!")\
 ```
+
+- [x] Aprender logica de programacion
+- [x] Retomar los cursos de desarrollo WEB
+- [ ] Obtener la certificaciones
+
+
